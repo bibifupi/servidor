@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Minicasino</title>
+<title>LA FRUTERIA</title>
 </head>
 <body>
 <H1> La Frutería del siglo XXI</H1>
@@ -15,8 +15,8 @@
 			<option value="Manzanas">Manzanas</option>
 			</select>
      Cantidad: <input name="cantidad" type="number" value=0 size=4 >
-     <input type="submit" name="accion" value=" Anotar ">	
-     <input type="submit" name="accion" value=" Terminar ">	
+     <input type="submit" name="accion" value="Anotar">	
+     <input type="submit" name="accion" value="Terminar">	
    </form>
 </body>
 </html>
